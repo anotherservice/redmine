@@ -586,7 +586,8 @@ class Issue < ActiveRecord::Base
 
   # Returns the number of hours spent on this issue
   def spent_hours
-    @spent_hours ||= time_entries.sum(:hours) || 0
+    @spent_hours ||= self_and_descendants.sum("#{TimeEntry.table_name}.hours",
+      :joins => "LEFT JOIN #{TimeEntry.table_name} ON #{TimeEntry.table_name}.issue_id = #{Issue.table_name}.id").to_f || 0
   end
 
   # Returns the total number of hours spent on this issue and its descendants
