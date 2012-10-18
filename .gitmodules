@@ -1,6 +1,6 @@
 [submodule "vendor/plugins/redmine_backlog"]
 	path = vendor/plugins/redmine_backlog
-	url = git://github.com/backlogs/redmine_backlogs.git
+	url = git@github.com:aya/redmine_backlogs.git
 [submodule "vendor/plugins/redmine_advanced_issues"]
 	path = vendor/plugins/redmine_advanced_issues
-	url = git://github.com/spike008t/redmine_advanced_issues.git
+	url = git@github.com:aya/redmine_advanced_issues.git
