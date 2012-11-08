@@ -296,7 +296,7 @@ en:
   field_delay: Delay
   field_assignable: Issues can be assigned to this role
   field_redirect_existing_links: Redirect existing links
-  field_estimated_hours: Estimated hours
+  field_estimated_hours: Estimated time
   field_column_names: Columns
   field_time_entries: Log time
   field_time_zone: Time zone
@@ -709,7 +709,7 @@ en:
   label_changes_details: Details of all changes
   label_issue_tracking: Issue tracking
   label_spent_time: Spent time
-  label_spent_hours: Spent hours
+  label_spent_hours: Spent time
   label_overall_spent_time: Overall spent time
   label_f_hour: "%{value} hour"
   label_f_hour_plural: "%{value} hours"

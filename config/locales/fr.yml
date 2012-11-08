@@ -303,7 +303,7 @@ fr:
   field_delay: Retard
   field_assignable: Demandes assignables à ce rôle
   field_redirect_existing_links: Rediriger les liens existants
-  field_estimated_hours: Heures estimées
+  field_estimated_hours: Temps estimé
   field_column_names: Colonnes
   field_time_zone: Fuseau horaire
   field_searchable: Utilisé pour les recherches
@@ -695,7 +695,7 @@ fr:
   label_changes_details: Détails de tous les changements
   label_issue_tracking: Suivi des demandes
   label_spent_time: Temps passé
-  label_spent_hours: Heures passées
+  label_spent_hours: Temps passé
   label_f_hour: "%{value} heure"
   label_f_hour_plural: "%{value} heures"
   label_time_tracking: Suivi du temps
