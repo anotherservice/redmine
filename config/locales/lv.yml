@@ -637,6 +637,7 @@ lv:
   label_changes_details: Visu izmaiņu detaļas
   label_issue_tracking: Uzdevumu uzskaite
   label_spent_time: Pavadītais laiks
+  label_spent_hours: Pavadītais laiks
   label_f_hour: "%{value} stunda"
   label_f_hour_plural: "%{value} stundas"
   label_time_tracking: Laika uzskaite

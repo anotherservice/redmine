@@ -488,6 +488,7 @@ uk:
   label_changes_details: Подробиці по всіх змінах
   label_issue_tracking: Координація питань
   label_spent_time: Витрачений час
+  label_spent_hours: Витрачений час
   label_f_hour: "%{value} година"
   label_f_hour_plural: "%{value} годин(и)"
   label_time_tracking: Облік часу
@@ -1025,10 +1026,10 @@ uk:
   permission_manage_related_issues: Manage related issues
   field_ldap_filter: LDAP filter
   label_search_for_watchers: Search for watchers to add
-  notice_account_deleted: "Ваш обліковій запис повністю видалений" 
-  setting_unsubscribe: "Дозволити користувачам видаляти свої облікові записи" 
-  button_delete_my_account: "Видалити мій обліковий запис" 
-  text_account_destroy_confirmation: "Ваш обліковий запис буде повністю видалений без можливості відновлення.\nВи певні, что бажаете продовжити?" 
+  notice_account_deleted: "Ваш обліковій запис повністю видалений"
+  setting_unsubscribe: "Дозволити користувачам видаляти свої облікові записи"
+  button_delete_my_account: "Видалити мій обліковий запис"
+  text_account_destroy_confirmation: "Ваш обліковий запис буде повністю видалений без можливості відновлення.\nВи певні, что бажаете продовжити?"
   error_session_expired: Your session has expired. Please login again.
   text_session_expiration_settings: "Warning: changing these settings may expire the current sessions including yours."
   setting_session_lifetime: Session maximum lifetime

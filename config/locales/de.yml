@@ -674,6 +674,7 @@ de:
   label_changes_details: Details aller Änderungen
   label_issue_tracking: Tickets
   label_spent_time: Aufgewendete Zeit
+  label_spent_hours: Aufgewendete Zeit
   label_overall_spent_time: Aufgewendete Zeit aller Projekte anzeigen
   label_f_hour: "%{value} Stunde"
   label_f_hour_plural: "%{value} Stunden"
@@ -1029,7 +1030,7 @@ de:
   button_export: Exportieren
   label_export_options: "%{export_format} Export-Eigenschaften"
   error_attachment_too_big: Diese Datei kann nicht hochgeladen werden, da sie die maximale Dateigröße von (%{max_size}) überschreitet.
-  notice_failed_to_save_time_entries: "Gescheitert %{count} Zeiteinträge für %{total} von ausgewählten: %{ids} zu speichern." 
+  notice_failed_to_save_time_entries: "Gescheitert %{count} Zeiteinträge für %{total} von ausgewählten: %{ids} zu speichern."
   label_x_issues:
     zero:  0 Tickets
     one:   1 Ticket
@@ -1050,10 +1051,10 @@ de:
   label_search_for_watchers: Nach hinzufügbaren Beobachtern suchen
   notice_account_deleted: Ihr Benutzerkonto wurde unwiderruflich gelöscht.
   setting_unsubscribe: Erlaubt Benutzern das eigene Benutzerkonto zu löschen
-  button_delete_my_account: Mein Benutzerkonto löschen 
+  button_delete_my_account: Mein Benutzerkonto löschen
   text_account_destroy_confirmation: Möchten Sie wirklich fortfahren?\nIhr Benutzerkonto wird für immer gelöscht und kann nicht wiederhergestellt werden.
   error_session_expired: Ihre Sitzung ist abgelaufen. Bitte melden Sie sich erneut an.
-  text_session_expiration_settings: "Achtung: Änderungen können aktuelle Sitzungen beenden, Ihre eingeschlossen!" 
+  text_session_expiration_settings: "Achtung: Änderungen können aktuelle Sitzungen beenden, Ihre eingeschlossen!"
   setting_session_lifetime: Längste Dauer einer Sitzung
   setting_session_timeout: Zeitüberschreitung bei Inaktivität
   label_session_expiration: Ende einer Sitzung

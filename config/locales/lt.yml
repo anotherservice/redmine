@@ -2,7 +2,7 @@
 # by Laurynas Butkus (laurynas.butkus@gmail.com)
 # Redmine translation by Gediminas Muižis gediminas.muizis@gmail.com
 #                      and Sergej Jegorov sergej.jegorov@gmail.com
-#					   and Gytis Gurklys gytis.gurklys@gmail.com
+#                      and Gytis Gurklys gytis.gurklys@gmail.com
 lt:
   direction: ltr
   date:
@@ -678,6 +678,7 @@ lt:
   label_changes_details: Visų pakeitimų detalės
   label_issue_tracking: Darbų sekimas
   label_spent_time: Dirbtas laikas
+  label_spent_hours: Dirbtas laikas
   label_f_hour: "%{value} valanda"
   label_f_hour_plural: "%{value} valandų"
   label_time_tracking: Laiko sekimas

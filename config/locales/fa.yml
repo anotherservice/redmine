@@ -667,6 +667,7 @@ fa:
   label_changes_details: ریز همه جایگذاری‌ها
   label_issue_tracking: پیگیری پیامد
   label_spent_time: زمان گذاشته شده
+  label_spent_hours: زمان گذاشته شده
   label_overall_spent_time: زمان گذاشته شده روی هم
   label_f_hour: "%{value} ساعت"
   label_f_hour_plural: "%{value} ساعت"

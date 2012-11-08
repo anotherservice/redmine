@@ -707,6 +707,7 @@ et:
   label_changes_details: "Kõikide muutuste andmed"
   label_issue_tracking: "Kande jälitamine"
   label_spent_time: "Kulutatud aeg"
+  label_spent_hours: "Kulutatud aeg"
   label_overall_spent_time: "Kokku kulunud aeg"
   label_f_hour: "%{value} tund"
   label_f_hour_plural: "%{value} tundi"

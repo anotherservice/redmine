@@ -635,6 +635,7 @@ hr:
   label_changes_details: Detalji svih promjena
   label_issue_tracking: Praćenje predmeta
   label_spent_time: Utrošeno vrijeme
+  label_spent_hours: Utrošeno vrijeme
   label_f_hour: "%{value} sata"
   label_f_hour_plural: "%{value} sati"
   label_time_tracking: Praćenje vremena

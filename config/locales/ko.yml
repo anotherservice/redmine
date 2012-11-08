@@ -659,6 +659,7 @@ ko:
   label_changes_details: 모든 상세 변경 내역
   label_issue_tracking: 일감 추적
   label_spent_time: 소요 시간
+  label_spent_hours: 소요 시간
   label_f_hour: "%{value} 시간"
   label_f_hour_plural: "%{value} 시간"
   label_time_tracking: 시간추적
@@ -687,7 +688,7 @@ ko:
   label_follows: "다음 일감을 우선 진행:"
   label_end_to_start: "끝에서 시작"
   label_end_to_end: "끝에서 끝"
-  label_start_to_start: "시작에서 시작" 
+  label_start_to_start: "시작에서 시작"
   label_start_to_end: "시작에서 끝"
   label_stay_logged_in: 로그인 유지
   label_disabled: 비활성화

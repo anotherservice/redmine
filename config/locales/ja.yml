@@ -708,6 +708,7 @@ ja:
   label_changes_details: 全変更の詳細
   label_issue_tracking: チケットトラッキング
   label_spent_time: 作業時間の記録
+  label_spent_hours: 作業時間の記録
   label_overall_spent_time: すべての作業時間の記録
   label_f_hour: "%{value}時間"
   label_f_hour_plural: "%{value}時間"

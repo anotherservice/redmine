@@ -671,6 +671,7 @@ cs:
   label_changes_details: Detail všech změn
   label_issue_tracking: Sledování úkolů
   label_spent_time: Strávený čas
+  label_spent_hours: Strávený čas
   label_overall_spent_time: Celkem strávený čas
   label_f_hour: "%{value} hodina"
   label_f_hour_plural: "%{value} hodin"
