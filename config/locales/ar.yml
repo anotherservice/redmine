@@ -692,6 +692,7 @@ ar:
   label_changes_details: تفاصيل جميع التغييرات
   label_issue_tracking: تعقب القضايا
   label_spent_time: أمضى بعض الوقت
+  label_spent_hours: أمضى بعض الوقت
   label_overall_spent_time: الوقت الذي تم انفاقه كاملا
   label_f_hour: "%{value} ساعة"
   label_f_hour_plural: "%{value} ساعات"

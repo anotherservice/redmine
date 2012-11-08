@@ -654,6 +654,7 @@ sr:
   label_changes_details: Детаљи свих промена
   label_issue_tracking: Праћење проблема
   label_spent_time: Утрошено време
+  label_spent_hours: Утрошено време
   label_overall_spent_time: Целокупно утрошено време
   label_f_hour: "%{value} сат"
   label_f_hour_plural: "%{value} сати"

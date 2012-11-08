@@ -626,6 +626,7 @@ id:
   label_changes_details: Rincian semua perubahan
   label_issue_tracking: Pelacak masalah
   label_spent_time: Waktu terpakai
+  label_spent_hours: Waktu terpakai
   label_f_hour: "%{value} jam"
   label_f_hour_plural: "%{value} jam"
   label_time_tracking: Pelacak waktu

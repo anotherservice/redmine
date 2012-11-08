@@ -618,6 +618,7 @@ el:
   label_changes_details: Λεπτομέρειες όλων των αλλαγών
   label_issue_tracking: Ανίχνευση θεμάτων
   label_spent_time: Δαπανημένος χρόνος
+  label_spent_hours: Δαπανημένος χρόνος
   label_f_hour: "%{value} ώρα"
   label_f_hour_plural: "%{value} ώρες"
   label_time_tracking: Ανίχνευση χρόνου

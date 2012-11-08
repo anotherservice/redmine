@@ -591,6 +591,7 @@ sl:
   label_changes_details: Podrobnosti o vseh spremembah
   label_issue_tracking: Sledenje zahtevkom
   label_spent_time: Porabljen čas
+  label_spent_hours: Porabljen čas
   label_f_hour: "%{value} ura"
   label_f_hour_plural: "%{value} ur"
   label_time_tracking: Sledenje času

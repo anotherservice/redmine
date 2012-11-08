@@ -644,6 +644,7 @@ eu:
   label_changes_details: Aldaketa guztien xehetasunak
   label_issue_tracking: Zeregin jarraipena
   label_spent_time: Igarotako denbora
+  label_spent_hours: Igarotako denbora
   label_f_hour: "ordu %{value}"
   label_f_hour_plural: "%{value} ordu"
   label_time_tracking: Denbora jarraipena
