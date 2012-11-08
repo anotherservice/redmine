@@ -642,6 +642,7 @@ mn:
   label_changes_details: Бүх өөрчлөлтүүдийн дэлгэрэнгүй
   label_issue_tracking: Асуудал хянах
   label_spent_time: Зарцуулсан хугацаа
+  label_spent_hours: Зарцуулсан хугацаа
   label_f_hour: "%{value} цаг"
   label_f_hour_plural: "%{value} цаг"
   label_time_tracking: Хугацааг хянах

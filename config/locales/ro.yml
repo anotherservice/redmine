@@ -599,6 +599,7 @@ ro:
   label_changes_details: Detaliile tuturor schimbărilor
   label_issue_tracking: Urmărire tichete
   label_spent_time: Timp alocat
+  label_spent_hours: Timp alocat
   label_f_hour: "%{value} oră"
   label_f_hour_plural: "%{value} ore"
   label_time_tracking: Urmărire timp de lucru

@@ -593,6 +593,7 @@ gl:
   label_sort_lower: Baixar
   label_sort_lowest: Último
   label_spent_time: Tempo dedicado
+  label_spent_hours: Tempo dedicado
   label_start_to_end: comezo a fin
   label_start_to_start: comezo a comezo
   label_statistics: Estatísticas

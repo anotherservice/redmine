@@ -597,6 +597,7 @@ pl:
   label_sort_lower: Do dołu
   label_sort_lowest: Przesuń na dół
   label_spent_time: Przepracowany czas
+  label_spent_hours: Przepracowany czas
   label_start_to_end: początek do końca
   label_start_to_start: początek do początku
   label_statistics: Statystyki

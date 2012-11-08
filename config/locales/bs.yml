@@ -616,6 +616,7 @@ bs:
   label_changes_details: Detalji svih promjena
   label_issue_tracking: Evidencija aktivnosti
   label_spent_time: Utrošak vremena
+  label_spent_hours: Utrošak vremena
   label_f_hour: "%{value} sahat"
   label_f_hour_plural: "%{value} sahata"
   label_time_tracking: Evidencija vremena

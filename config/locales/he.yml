@@ -664,6 +664,7 @@ he:
   label_changes_details: פירוט כל השינויים
   label_issue_tracking: מעקב אחר נושאים
   label_spent_time: זמן שהושקע
+  label_spent_hours: זמן שהושקע
   label_overall_spent_time: זמן שהושקע סה"כ
   label_f_hour: "%{value} שעה"
   label_f_hour_plural: "%{value} שעות"
